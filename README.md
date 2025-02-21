@@ -11,7 +11,7 @@ Tool-X is a kali linux hacking Tool installer. Tool-X is Developed By Rajkumar D
 <br/><br/><br/>
 
 <p align="center">
-<img src="https://github.com/Rajkumrdusad/Tool-X/blob/master/.sc/Logo.jpg"/>
+<img src="https://github.com/ArminScoins/Tool-X/blob/master/.sc/Logo.jpg"/>
 </p>
 
 <br/><br/><br/>
@@ -32,7 +32,7 @@ Tool-X is a kali linux hacking Tool installer. Tool-X is Developed By Rajkumar D
 
 * Android
 * Ubuntu
-
+* THEBOX
 <br/>
 
 # How to Install in termux ?
@@ -43,7 +43,7 @@ Open the termux app and type following commands.
 
 * `pkg install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `git clone https://github.com/ArminScoins/Tool-X.git`
 
 * `cd Tool-X`
 
@@ -67,7 +67,7 @@ Open the GNURoot Debian app and type following commands.
 
 * `apt install git`
 
-* `cd && git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `cd && git clone https://github.com/ArminScoins/Tool-X.git`
 
 * `cd Tool-X`
 
@@ -89,7 +89,7 @@ Now type Tool-X from anywhare in your terminal to open Tool-X. But use this tool
 
 * `sudo apt-get install git`
 
-* `sudo git clone https://github.com/Rajkumrdusad/Tool-X.git`
+* `sudo git clone https://github.com/ArminScoins/Tool-X.git`
 
 * `cd Tool-X`
 
